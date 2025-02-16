@@ -1,0 +1,22 @@
+.box{
+    background: #c3c3c3;
+    height: 10vw;
+    width: 10vw;
+    border-radius: 5px;
+    margin-top: 5%;
+    margin-left: 5%;
+    cursor: pointer;
+    transition: background-color 1.5s ease, margin 1.5s ease;
+}
+.coordinates{
+    position: absolute;
+    height: 10vw;
+    width: 10vw;
+    top: 30vw;
+    left: 10vw;
+    font-size: 20px;
+    color: rgb(255, 255, 255); 
+    background-color: rgb(255, 0, 0);
+    padding: 2vw;
+}
+
